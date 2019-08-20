@@ -56,9 +56,6 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-.conda
-.config
-.jupyter
 
 # pyenv
 .python-version
