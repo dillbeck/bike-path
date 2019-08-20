@@ -1,4 +1,4 @@
-# DSCI-521 Project - Bike Sharing Demand in Washington DC
+# DSCI-521 Project 
 The team project repository for Drexel DSCI 521 Summer 19
 
 ## Collaborators
