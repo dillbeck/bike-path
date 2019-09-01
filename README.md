@@ -8,7 +8,7 @@ The team project repository for Drexel DSCI 521 Summer 19
 - Zexi Yu
 
 ## Project Domain
-Ridesharing is becoming more prominent in urban areas. There are supply and demand issues that can be identified so customers have less waiting time.Our group is curious to know how different features affect rental demand of transportation, specifically bicycles. 
+Ridesharing is becoming more prominent in urban areas. There are supply and demand issues that can be identified so customers have less waiting time. Our group is curious to know how different features affect rental demand of transportation, specifically bicycles. 
 
 
 ## Dataset 
