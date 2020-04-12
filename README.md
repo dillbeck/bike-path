@@ -1,5 +1,5 @@
-# DSCI-521 Project 
-The team project repository for Drexel DSCI 521 Summer 19
+# Kaggle Competition
+Forecast use of a city bikeshare system
 
 ## Collaborators
 - Aditya Nanjappa
@@ -7,7 +7,7 @@ The team project repository for Drexel DSCI 521 Summer 19
 - Raj Patel
 - Zexi Yu
 
-## Project Domain
+## Challenge Domain
 Ridesharing is becoming more prominent in urban areas. There are supply and demand issues that can be identified so customers have less waiting time. Our group is curious to know how different features affect rental demand of transportation, specifically bicycles. 
 
 
